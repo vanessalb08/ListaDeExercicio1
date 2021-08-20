@@ -9,3 +9,6 @@ md Alagoas Bahia Ceara Maranhao Paraiba Pernambuco Piaui "Rio Grande do Norte" S
 cd..
 cd "Norte"
 md Acre Amapa Amazonas Para Rondonia Roraima Tocantins
+cd..
+cd "Sul"
+md Parana "Santa Catarina" "Rio Grande do Sul"
